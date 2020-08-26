@@ -1,7 +1,7 @@
 This project includes a mix of the following:
 
 * Open source works that are not in the public domain
-* Open source work by the U.S. government that is in the public domain
+* Open source work that is in the public domain
 
 ## Parts of this project that are not in the public domain
 
@@ -10,8 +10,6 @@ This site is based on the Draft U.S. Web Design System (WDS), which also include
 This site also includes a number of images that have various copyright statuses, including Creative Commons licenses and public domain. These images are in the `assets` directory, and license details are available on the posts and pages that display the images.
 
 ## The rest of this project is in the worldwide public domain
-
-As a work of the United States government, this project is in the public domain within the United States.
 
 Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
